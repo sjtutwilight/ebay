@@ -1,0 +1,3 @@
+{userId=123456, endpoint=[resource A]}
+{userId=123457, endpoint=[resource B]}
+{userId=123458, endpoint=[resource B]}
